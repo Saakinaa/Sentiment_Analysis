@@ -1,12 +1,12 @@
-# 💡 Sentiment Analysis & NLP Projects
+# Sentiment Analysis & NLP Projects
 
-<div align="center">
+<div align="">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFB3\&size=26\&center=true\&vCenter=true\&width=800\&lines=Sentiment+Analysis+with+Machine+Learning;NLP+Projects;Twitter+Data+Analysis;From+Text+to+Insights)
 
 ---
 
-## 🧠 Natural Language Processing | Machine Learning
+## Natural Language Processing | Machine Learning
 
 **Transforming textual data into actionable insights using NLP techniques and machine learning models**
 
@@ -14,7 +14,7 @@
 
 </div>
 
-## 📌 Project Overview
+## Project Overview
 
 This repository presents multiple **Natural Language Processing (NLP)** projects focused on **sentiment analysis**, from basic scoring approaches to advanced **machine learning models (SVM)**.
 
@@ -22,9 +22,9 @@ The objective is to demonstrate how textual data can be transformed into meaning
 
 ---
 
-## 🚀 Project 1: Sentiment Analysis (Scoring System)
+## Project 1: Sentiment Analysis (Scoring System)
 
-### 📖 Description
+### Description
 
 This project implements a **sentiment scoring system (1–5)** to classify text into:
 
@@ -32,7 +32,7 @@ This project implements a **sentiment scoring system (1–5)** to classify text 
 * Neutral
 * Positive
 
-### ⚙️ Key Features
+### Key Features
 
 * Text preprocessing
 * Sentiment scoring
@@ -41,13 +41,13 @@ This project implements a **sentiment scoring system (1–5)** to classify text 
 
 ---
 
-## 🐦 Project 2: Twitter Sentiment Analysis
+## Project 2: Twitter Sentiment Analysis
 
-### 📖 Description
+### Description
 
 This project analyzes **real-time Twitter data** to extract public sentiment and identify trends.
 
-### ⚙️ Key Features
+### Key Features
 
 * Data collection via API
 * Text cleaning and preprocessing
@@ -56,16 +56,16 @@ This project analyzes **real-time Twitter data** to extract public sentiment and
 
 ---
 
-## 🤖 Project 3: Machine Learning Sentiment Analysis (SVM)
+## Project 3: Machine Learning Sentiment Analysis (SVM)
 
-### 📖 Description
+### Description
 
 This project implements a **sentiment classification model** using:
 
 * **TF-IDF Vectorization**
 * **Support Vector Machine (SVM)**
 
-### ⚙️ Workflow
+### Workflow
 
 * Data loading and cleaning
 * Text preprocessing:
@@ -80,7 +80,7 @@ This project implements a **sentiment classification model** using:
 
 ---
 
-## 📊 Model Evaluation
+## Model Evaluation
 
 * Accuracy score
 * Confusion matrix
@@ -88,18 +88,18 @@ This project implements a **sentiment classification model** using:
 
 ---
 
-## 📁 Output
+## Output
 
 * Predicted vs Actual sentiment comparison
 * Exported results (`sentiment_predictions.csv`)
 
 ---
 
-## 🧰 Technologies Used
+## Technologies Used
 
-### 💻 Programming & Data Processing
+### Programming & Data Processing
 
-<div align="center">
+<div align="">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
@@ -109,9 +109,9 @@ This project implements a **sentiment classification model** using:
 
 ---
 
-### 🧠 NLP & Machine Learning
+### NLP & Machine Learning
 
-<div align="center">
+<div align="">
 
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-154F8B?style=for-the-badge)
@@ -122,9 +122,9 @@ This project implements a **sentiment classification model** using:
 
 ---
 
-### 📊 Data Visualization
+### Data Visualization
 
-<div align="center">
+<div align="">
 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-1F77B4?style=for-the-badge)
@@ -133,9 +133,9 @@ This project implements a **sentiment classification model** using:
 
 ---
 
-### 📓 Tools & Environment
+### Tools & Environment
 
-<div align="center">
+<div align="">
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37726?style=for-the-badge\&logo=jupyter\&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge\&logo=googlecolab\&logoColor=white)
@@ -145,50 +145,18 @@ This project implements a **sentiment classification model** using:
 
 ---
 
-## 🌍 Business Applications
+## Business Applications
 
 Sentiment analysis is widely used across industries:
 
-* 🏥 Healthcare: patient feedback and mental health signals
-* 🛍️ Business: customer sentiment & brand monitoring
-* 🎓 Education: student feedback analysis
-* 📱 Social Media: public opinion tracking
-
----
-
-## 📊 Key Insights
-
-* Text data provides valuable insights
-* Machine learning improves sentiment accuracy
-* Social media enables real-time analysis
-* NLP allows scalable understanding of human language
-
----
-
-## 🚀 Future Improvements
-
-* Implement deep learning models (LSTM, Transformers)
-* Improve preprocessing techniques
-* Deploy using Streamlit
-* Build interactive dashboards
-
----
-
-## 🤝 Contribution
-
-This project is open for learning and improvement.
-Feel free to fork and contribute.
-
----
+* Healthcare: patient feedback and mental health signals
+* Business: customer sentiment & brand monitoring
+* Education: student feedback analysis
+* Social Media: public opinion tracking
 
 <div align="center">
 
-![Repo Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME\&repo=Sentiment_Analysis\&color=blueviolet\&style=for-the-badge)
+![Repo Views](https://komarev.com/ghpvc/?username=saakinaa\&repo=Sentiment_Analysis\&color=blueviolet\&style=for-the-badge)
 
 </div>
 
----
-
-<div align="center">
-  <sub>Built with passion for Data Science, NLP & Machine Learning | 2026</sub>
-</div>
