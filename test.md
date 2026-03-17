@@ -1,8 +1,6 @@
-# Sentiment Analysis & NLP Projects
-
 <div align="">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFB3\&size=26\&center=true\&vCenter=true\&width=800\&lines=Sentiment+Analysis+with+Machine+Learning;NLP+Projects;Twitter+Data+Analysis;From+Text+to+Insights)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=320733\&size=26\&center=true\&vCenter=true\&width=800\&lines=Sentiment+Analysis+with+Machine+Learning;NLP+Projects;Twitter+Data+Analysis;From+Text+to+Insights)
 
 ---
 
